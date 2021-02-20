@@ -10,4 +10,6 @@ It can be downloaded and used for educational purposes, personal purposes, etc.
 - Create a virtual environment.
 - Pip install the requirements.txt file.
 - Start your development server
-- Visit http://localhost:8000
+- Visit on your local browser http://localhost:8000
+
+#Live url: https://damiosblog.herokuapp.com/
