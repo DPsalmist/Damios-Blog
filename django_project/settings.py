@@ -25,7 +25,7 @@ SECRET_KEY = 'r64---(+3iojww)731hkr06!@jil_hho=qa%k7goybo7_8=_v3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['damiosblog.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['damiosblog.herokuapp.com', '127.0.0.1', 'www.plr-planet.com']
 # Application definition
 
 INSTALLED_APPS = [
